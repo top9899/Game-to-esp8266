@@ -1,0 +1,1 @@
+Is Game to esp8266 ! OPEN Game.ino in Arduino ide and install to esp 8266 connect to wifi name Game and open browser in 192.168.4.1
